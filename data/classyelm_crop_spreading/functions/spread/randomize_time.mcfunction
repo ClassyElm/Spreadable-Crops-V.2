@@ -1,0 +1,1 @@
+summon bat ~ ~ ~ {DeathLootTable:"classyelm_crop_spreading:crop_spread_chance",ActiveEffects:[{Id:14,Duration:100,ShowParticles:0b},{Id:7,Duration:100,Amplifier:100,ShowParticles:0b}],NoAI:1,Silent:1}
