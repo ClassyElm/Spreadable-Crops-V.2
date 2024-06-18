@@ -8,7 +8,7 @@ scoreboard objectives add csv2oups minecraft.used:minecraft.pumpkin_seeds
 scoreboard objectives add csv2oums minecraft.used:minecraft.melon_seeds
 scoreboard objectives add csv2ounw minecraft.used:minecraft.nether_wart
 scoreboard objectives add csv2oubrs minecraft.used:minecraft.beetroot_seeds
-tellraw @a [{"text":"Loaded Crop Spreading v.2 by ClassyElm","color":"yellow","clickEvent":{"action":"open_url","value":"https://www.planetminecraft.com/member/classyelm/"}}]
+tellraw @a [{"text":"Loaded Spreadable Crops by ClassyElm","color":"yellow","clickEvent":{"action":"open_url","value":"https://www.planetminecraft.com/member/classyelm/"}}]
 
 ###Abbreviations (csv2... - crop spreading version 2...)
 ##Objectives (o... - objective...)
