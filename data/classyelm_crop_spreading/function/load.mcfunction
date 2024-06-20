@@ -12,7 +12,7 @@ tellraw @a [{"text":"Loaded Spreadable Crops by ClassyElm","color":"yellow","cli
 
 ###Abbreviations (csv2... - crop spreading version 2...)
 ##Objectives (o... - objective...)
-# uct - use crop total
+# uct - use crop total / also shared for rng of area effect cloud crop markers
 # uws - use wheat seeds
 # uc - use carrot
 # up - use potato
